@@ -14,7 +14,7 @@ const firebaseConfig = {
   storageBucket: "estoque-petshop.firebasestorage.app",
   messagingSenderId: "614855133687",
   appId: "1:614855133687:web:36abdbc051a276e324c6f2",
-  measurementId: "G-P405EY3KJC",
+  measurementId: "G-P405EY3KJC"
 };
 
 // Initialize Firebase
