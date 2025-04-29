@@ -2,7 +2,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebas
 import { getFirestore } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBDp-j5fYvraGOVIOs1XVTj7eJ9FprARXk",
+  apiKey: "",
   authDomain: "estoque-petshop.firebaseapp.com",
   databaseURL: "https://estoque-petshop-default-rtdb.firebaseio.com",
   projectId: "estoque-petshop",
